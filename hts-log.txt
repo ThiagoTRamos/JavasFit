@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Aug 2022 11:56:17 at http://misteracademia.renderforestsites.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://misteracademia.renderforestsites.com/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" http://misteracademia.renderforestsites.com/ -O1 "C:\Users\gbven\Desktop\Academia\Javas fit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://misteracademia.renderforestsites.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 13 links scanned, 12 files written (3430216 bytes overall) [2752030 bytes received at 131049 bytes/sec], 916120 bytes transferred using HTTP compression in 7 files, ratio 24%, 2.6 requests per connection
+(No errors, 0 warnings, 0 messages)
